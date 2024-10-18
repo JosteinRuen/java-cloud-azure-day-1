@@ -1,0 +1,6 @@
+spring.datasource.url=jdbc:postgresql://ep-icy-rice-a2r5pk0j.eu-central-1.aws.neon.tech/test?sslmode=require
+spring.datasource.username=test
+spring.datasource.password=ZTJ3qHwCViQ4
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
